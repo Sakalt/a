@@ -1,0 +1,18 @@
+[
+  {
+    "word": "人",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "人。人間。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nai2",
+    "num": "1"
+  },
